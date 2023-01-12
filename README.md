@@ -11,8 +11,8 @@
        * BassedeDonnées.mat/.csv (Opt)
        * Code.zip
        * ExperienceNOM/  (Opt)
-         ** Code.zip
-         ** Résultat.mat/.csv
+         *  Code.zip
+         *  Résultat.mat/.csv
     * Présentations/
        * PresentationFinalNOM-DATE.ppt
   * Tachê2/
