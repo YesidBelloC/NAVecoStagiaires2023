@@ -8,9 +8,9 @@
     * Code/
       * Dossier du code/
        * README (de l'installation jusqu'à run) 
-       * BassedeDonnées.mat/.csv
+       * BassedeDonnées.mat/.csv (Opt)
        * Code.zip
-        * ExperienceNOM/
+        * ExperienceNOM/  (Opt)
          * Code.zip
          * Résultat.mat/.csv
     * Présentations/
