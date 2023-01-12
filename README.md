@@ -1,11 +1,11 @@
 # NAVecoStagiaires2023
 
 
-Structure prévu:
+##Structure prévu:
 
--Dossier du stagiaire/
-  -Tachê 1NOM/
-    -Code/
+###Dossier du stagiaire/
+  ###Tachê 1NOM/
+    ###Code/
       -Dossier du code/
       -BassedeDonnées.mat/.csv
       -Code.zip
