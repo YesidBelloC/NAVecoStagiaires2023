@@ -7,11 +7,12 @@
   * Tachê 1NOM/
     * Code/
       * Dossier du code/
-      * BassedeDonnées.mat/.csv
-      * Code.zip
-      * ExperienceNOM/
-        * Code.zip
-        * Résultat.mat/.csv
+       * README (de l'installation jusqu'à run) 
+       * BassedeDonnées.mat/.csv
+       * Code.zip
+        * ExperienceNOM/
+         * Code.zip
+         * Résultat.mat/.csv
     * Présentations/
        * PresentationFinalNOM-DATE.ppt
   * Tachê2/
