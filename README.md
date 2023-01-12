@@ -10,9 +10,9 @@
        * README (de l'installation jusqu'à run) 
        * BassedeDonnées.mat/.csv (Opt)
        * Code.zip
-        - ExperienceNOM/  (Opt)
-         - Code.zip
-         - Résultat.mat/.csv
+        ** ExperienceNOM/  (Opt)
+         *** Code.zip
+         *** Résultat.mat/.csv
     * Présentations/
        * PresentationFinalNOM-DATE.ppt
   * Tachê2/
