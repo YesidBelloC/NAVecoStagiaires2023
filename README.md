@@ -10,7 +10,7 @@
        * README (de l'installation jusqu'à run) 
        * BassedeDonnées.mat/.csv (Opt)
        * Code.zip
-       ** ExperienceNOM/  (Opt)
+       * ExperienceNOM/  (Opt)
          ** Code.zip
          ** Résultat.mat/.csv
     * Présentations/
